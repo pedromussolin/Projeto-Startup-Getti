@@ -30,7 +30,7 @@ int main()
     return total;
 }
     if(cpf>=11)
-    printf("RAFA ROLUDO");
+    printf("");
     }
     return 0;
   }
