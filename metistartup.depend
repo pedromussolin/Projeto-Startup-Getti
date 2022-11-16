@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1668195370 source:c:\metistartup\main.c
+	"header.h"
+	"telas.h"
+
+1668210678 c:\metistartup\header.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1668438982 source:c:\metistartup\telas.c
+	"header.h"
+	"login.h"
+	"servicosEmpresa.h"
+
+1668195363 c:\metistartup\telas.h
+
+1666963898 source:c:\metistartup\status.c
+	"header.h"
+
+1668195376 source:c:\metistartup\login.c
+	"header.h"
+
+1668186826 c:\metistartup\login.h
+
+1668278229 source:c:\metistartup\consultastatusatendimento.c
+	"header.h"
+	"telas.h"
+
+1668438989 source:c:\metistartup\servicosempresa.c
+	"header.h"
+	"telas.h"
+
+1668381098 c:\metistartup\servicosempresa.h
+
+1668395641 source:c:\metistartup\statusatendimento.c
+	"header.h"
+	"telas.h"
+
